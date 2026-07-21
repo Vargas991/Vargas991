@@ -58,7 +58,7 @@ Clean code · Maintainable architecture · Useful products · Continuous learnin
 
 ## Let's connect
 
-- 📧 **Email:** [eddersonvargas@gmail.com](mailto:your-email@example.com)
+- 📧 **Email:** [eddersonvargas91@gmail.com](mailto:your-email@example.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/edderson-vargas/](https://www.linkedin.com/in/your-profile)
 
 
