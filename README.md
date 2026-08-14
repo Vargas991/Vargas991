@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | React, Next.js, NestJS & PostgreSQL
 
+
+
 I'm a Venezuelan software developer with **6+ years of professional experience** building web applications and business solutions. I enjoy turning complex processes into reliable, maintainable, and user-friendly products.
 
 I'm currently completing my **Computer Engineering degree thesis** while continuing to develop full-stack projects and strengthen my software architecture and cloud deployment skills.
@@ -60,6 +62,7 @@ Clean code · Maintainable architecture · Useful products · Continuous learnin
 
 - 📧 **Email:** [eddersonvargas91@gmail.com](mailto:your-email@example.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/edderson-vargas/](https://www.linkedin.com/in/your-profile)
+- 💼 **Web** [https://www.vareddev.com](https://www.linkedin.com/in/your-profile)
 
 
 ---
